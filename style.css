@@ -65,7 +65,7 @@ p {
 
 .bus nav li {
   float: left;
-  width: 25%;
+  width: 33%;
   margin: 0auto;
 }
 
@@ -266,5 +266,4 @@ footer a {
 
 footer nav a:hover{
   border-bottom: 1px solid white;
-
 }
