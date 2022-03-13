@@ -6,18 +6,6 @@ body {
   margin: 0;
 }
 
-*:link {
-  color: black;
-}
-
-*:hover {
-  color: black;
-}
-
-*:visited {
-  color: black;
-}
-
 p {
   font-size: 20px;
 }
@@ -151,7 +139,6 @@ p {
   background: url("https://i.pinimg.com/originals/ca/a5/f4/caa5f49b1265b5310dd379d5736006e1.jpg") no-repeat center center / cover;
 }
 
-
 /*Le Corps du site*/
 .squelletteHtml {
   display: flex;
@@ -226,11 +213,20 @@ h2 {
 .tandau:hover {
   transform: translateX(10px);
   border-bottom: 2px solid gold;
+  color: black;
 }
 
 .tandau {
   font-size: 30px;
   padding: 30px;
+}
+
+tandau:link {
+  color: black;
+}
+
+tandau:visited {
+  color: black;
 }
 
 .poster {
