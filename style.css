@@ -360,4 +360,20 @@ footer nav a:hover{
   .sousSkills {
     font-size: 20px;
   }
+  
+    /*Châpeau*/
+  .chapeau {
+    height: 100px;
+  }
+
+  .title {
+    width: 80%;
+    padding-bottom: 20px;
+  }
+
+  /*Chat du Profil*/
+  .profilImage {
+    width: 20%;
+    padding-bottom: 20px;
+  }
 }
