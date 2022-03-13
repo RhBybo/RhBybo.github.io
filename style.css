@@ -5,6 +5,18 @@ body {
   color: #eee;
 }
 
+body:hover {
+  color: black;
+}
+
+body:visited {
+  color: black;
+}
+
+body:link {
+  color: black;
+}
+
 p {
   font-size: 20px;
 }
