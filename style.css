@@ -5,15 +5,15 @@ body {
   color: #eee;
 }
 
-body:hover {
+*:hover {
   color: black;
 }
 
-body:visited {
+*:visited {
   color: black;
 }
 
-body:link {
+*:link {
   color: black;
 }
 
