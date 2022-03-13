@@ -200,10 +200,9 @@ h2 {
 }
 
 .tandau {
-  padding: 20px;
+  padding: 30px;
   width: 20%;
-  font-size: 15%;
-  font-size: 20px;
+  font-size: 30px;
   padding: 10px 0;
   transition: transform 10s case;
   cursor: pointer;
@@ -215,9 +214,12 @@ h2 {
   border-bottom: 2px solid gold;
 }
 
-.tandau {
-  font-size: 30px;
-  padding: 30px;
+.tandau:visited {
+  color: black;
+}
+
+.tandau:link {
+  color: black;
 }
 
 .poster {
