@@ -6,6 +6,18 @@ body {
   margin: 0;
 }
 
+*:link {
+  color: black;
+}
+
+*:hover {
+  color: gold;
+}
+
+*:visited {
+  color: black;
+}
+
 p {
   font-size: 20px;
 }
